@@ -1,4 +1,4 @@
-# PRAXIS-Team-3
+﻿# PRAXIS-Team-3
 This repository is oriented to store the praxis proyect of the team 3
 
 ## Getting Started
@@ -14,5 +14,6 @@ This repository is oriented to store the praxis proyect of the team 3
  
   * José Francisco Miguel Diaz Diaz
   * Johan Alexander Paniagua Bedoya
+  * David Alejandro Alcaraz Quiroz
 
 
