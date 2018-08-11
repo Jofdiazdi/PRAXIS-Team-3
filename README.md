@@ -12,6 +12,7 @@ This repository is oriented to store the praxis proyect of the team 3
  
 ## Authors
  
-  * José Francisco Miguel Diaz Diaz
+  * JosÃ© Francisco Miguel Diaz Diaz
+  * Johan Alexander Paniagua Bedoya
 
 
