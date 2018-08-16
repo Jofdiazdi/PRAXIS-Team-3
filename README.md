@@ -1,4 +1,4 @@
-# PRAXIS-Team-3
+﻿# PRAXIS-Team-3
 This repository is oriented to store the praxis proyect of the team 3
 
 ## Getting Started
@@ -13,3 +13,4 @@ This repository is oriented to store the praxis proyect of the team 3
 ## Authors
 * Jos� Francisco Miguel Diaz Diaz
 * Miguel Pinzon Hernandez
+* David Alejandro Alcaraz Quiroz
