@@ -11,4 +11,5 @@ This repository is oriented to store the praxis proyect of the team 3
   5. Commit.
 
 ## Authors
-* José Francisco Miguel Diaz Diaz
+* Josï¿½ Francisco Miguel Diaz Diaz
+* Miguel Pinzon Hernandez
