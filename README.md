@@ -9,7 +9,7 @@ This repository is oriented to store the praxis proyect of the team 3
      from others to review your code.
   4. In this readme file, add your name under the authors section.
   5. Commit.
- 
+
 ## Authors
  
   * José Francisco Miguel Diaz Diaz
@@ -17,4 +17,5 @@ This repository is oriented to store the praxis proyect of the team 3
   * David Alejandro Alcaraz Quiroz
   * Carlos Miguel Pinzón Hernández
   * León Darío Peña Londoño
+  * Johan Alexander Paniagua Bedoya
   * Santiago Echavarría Puerta
