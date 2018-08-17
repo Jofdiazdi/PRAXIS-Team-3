@@ -18,4 +18,3 @@ This repository is oriented to store the praxis proyect of the team 3
   * Carlos Miguel Pinzón Hernández
   * León Darío Peña Londoño
   * Santiago Echavarría Puerta
-
