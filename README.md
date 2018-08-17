@@ -14,3 +14,4 @@ This repository is oriented to store the praxis proyect of the team 3
 * Jos� Francisco Miguel Diaz Diaz
 * Miguel Pinzon Hernandez
 * David Alejandro Alcaraz Quiroz
+* León Darío Peña Londoño
