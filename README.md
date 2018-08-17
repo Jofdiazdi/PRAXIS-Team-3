@@ -15,3 +15,4 @@ This repository is oriented to store the praxis proyect of the team 3
 * Miguel Pinzon Hernandez
 * David Alejandro Alcaraz Quiroz
 * León Darío Peña Londoño
+* Johan Alexander Paniagua Bedoya
