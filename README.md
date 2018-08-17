@@ -11,8 +11,11 @@ This repository is oriented to store the praxis proyect of the team 3
   5. Commit.
 
 ## Authors
-* Jos� Francisco Miguel Diaz Diaz
-* Miguel Pinzon Hernandez
-* David Alejandro Alcaraz Quiroz
-* León Darío Peña Londoño
-* Johan Alexander Paniagua Bedoya
+ 
+  * José Francisco Miguel Diaz Diaz
+  * Johan Alexander Paniagua Bedoya
+  * David Alejandro Alcaraz Quiroz
+  * Carlos Miguel Pinzón Hernández
+  * León Darío Peña Londoño
+  * Johan Alexander Paniagua Bedoya
+  * Santiago Echavarría Puerta
